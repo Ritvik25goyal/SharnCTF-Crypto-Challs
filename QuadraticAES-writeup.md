@@ -25,8 +25,8 @@ print(pow(bytes_to_long(secret),2,p))
 # Output: 1253374543256850702638941421606
 ```
 
-The code was doing secret<sup>2</sup> (mod p).
-[Quadratic Residue Wiki](https://en.wikipedia.org/wiki/Quadratic_residue)
+The code was doing secret<sup>2</sup> (mod p).   
+[Quadratic Residue Wiki](https://en.wikipedia.org/wiki/Quadratic_residue)    
 The Legendre Symbol gives an efficient way to determine whether an integer is a quadratic residue modulo an odd prime p.
 
 Legendre's Symbol: (a / p) ≡ a<sup>(p-1)/2</sup> mod p obeys:

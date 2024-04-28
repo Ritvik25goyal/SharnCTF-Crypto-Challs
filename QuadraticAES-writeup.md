@@ -1,4 +1,4 @@
-## Papa RSA Writeup
+## Quadratic AES Writeup
 
 **Challenge Authors**: Het Patel(Y20) and Ritvik Goyal(Y22)
 
